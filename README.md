@@ -1,2 +1,3 @@
 # R-Style-Guide
-This repository primarily contains a wiki regarding style conventions for using R at MHS. Please visit the wiki for more details.
+
+This repository primarily hosts a wiki regarding style conventions and guidelines for using R at MHS. Please visit the (\[https://github.com/MHS-R/R-Guide/wiki](wiki) for more details.
